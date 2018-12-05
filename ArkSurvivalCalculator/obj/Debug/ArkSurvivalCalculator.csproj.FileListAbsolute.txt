@@ -1,0 +1,10 @@
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\bin\Debug\ArkSurvivalCalculator.exe.config
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\bin\Debug\ArkSurvivalCalculator.exe
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\bin\Debug\ArkSurvivalCalculator.pdb
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.csprojAssemblyReference.cache
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.Form1.resources
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.Properties.Resources.resources
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.csproj.GenerateResource.cache
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.exe
+C:\Users\tyler.jones\source\repos\ArkSurvivalCalculator\ArkSurvivalCalculator\obj\Debug\ArkSurvivalCalculator.pdb
